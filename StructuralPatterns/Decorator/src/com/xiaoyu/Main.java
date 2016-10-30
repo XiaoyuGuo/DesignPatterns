@@ -1,3 +1,5 @@
+package com.xiaoyu;
+
 /**
  * Created by gxytk on 2016/10/30.
  * 装饰器模式
